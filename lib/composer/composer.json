@@ -1,0 +1,17 @@
+{
+  "name": "wef/calendar",
+  "description": "calendario agenda de eventos",
+  "authors": [
+    {
+      "name": "benedito",
+      "email": "junioleao75@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+        "psr-4": {
+        "Classes\\": "../../class",
+        "Models\\": "../../model"
+        }
+  }
+}
